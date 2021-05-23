@@ -1,6 +1,6 @@
 # Mixture_models_simulation
 
-Codes for my Master's final project.
+Codes used in my Master's final project.
 
 $Abstract
 Finite mixture models provide a convenient framework for model-based clustering. Traditionally, the model parameters are estimated by maximum likelihood estimation, fulfilled by the expectation-maximization (EM) algorithm. Such approach to clustering has many advantages but also several pitfalls. Some of those issues can be overcome by varying the EM algorithm. We describe two variants of the EM algorithm, namely the Classification EM (CEM) and the Stochastic EM (SEM). 
